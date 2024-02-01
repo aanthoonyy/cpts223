@@ -1,0 +1,160 @@
+N:4 M: 3
+Total CPU TIME: 1.058 milliseconds
+AVG time between deletion: 0.133333 microseconds
+
+N:8 M: 3
+Total CPU TIME: 1.655 milliseconds
+AVG time between deletion: 0.1 microseconds
+
+N:16 M: 3
+Total CPU TIME: 1.352 milliseconds
+AVG time between deletion: 0.0666667 microseconds
+
+N:32 M: 3
+Total CPU TIME: 1.873 milliseconds
+AVG time between deletion: 0.116129 microseconds
+
+N:64 M: 3
+Total CPU TIME: 1.668 milliseconds
+AVG time between deletion: 0.161905 microseconds
+
+N:128 M: 3
+Total CPU TIME: 1.879 milliseconds
+AVG time between deletion: 0.134646 microseconds
+
+N:256 M: 3
+Total CPU TIME: 1.961 milliseconds
+AVG time between deletion: 0.165098 microseconds
+
+N:512 M: 3
+Total CPU TIME: 3.814 milliseconds
+AVG time between deletion: 0.35362 microseconds
+
+N:1024 M: 3
+Total CPU TIME: 7.201 milliseconds
+AVG time between deletion: 0.489052 microseconds
+
+N:512 M: 2
+Total CPU TIME: 2.995 milliseconds
+AVG time between deletion: 0.262427 microseconds
+
+N:512 M: 4
+Total CPU TIME: 2.616 milliseconds
+AVG time between deletion: 0.223679 microseconds
+
+N:512 M: 8
+Total CPU TIME: 3.087 milliseconds
+AVG time between deletion: 0.256556 microseconds
+
+N:512 M: 16
+Total CPU TIME: 4.299 milliseconds
+AVG time between deletion: 0.403131 microseconds
+
+N:512 M: 32
+Total CPU TIME: 2.923 milliseconds
+AVG time between deletion: 0.203523 microseconds
+
+N:512 M: 64
+Total CPU TIME: 2.853 milliseconds
+AVG time between deletion: 0.216047 microseconds
+
+N:512 M: 128
+Total CPU TIME: 2.532 milliseconds
+AVG time between deletion: 0.177886 microseconds
+
+N:512 M: 256
+Total CPU TIME: 2.722 milliseconds
+AVG time between deletion: 0.216243 microseconds
+
+N:972 M: 442
+Total CPU TIME: 151.969 milliseconds
+AVG time between deletion: 15.4235 microseconds
+
+N:18 M: 0
+Total CPU TIME: 1.685 milliseconds
+AVG time between deletion: 0.888889 microseconds
+
+N:287 M: 228
+Total CPU TIME: 17.188 milliseconds
+AVG time between deletion: 4.5101 microseconds
+
+N:348 M: 270
+Total CPU TIME: 24.93 milliseconds
+AVG time between deletion: 5.72471 microseconds
+
+N:11 M: 4
+Total CPU TIME: 1.459 milliseconds
+AVG time between deletion: 0.736364 microseconds
+
+N:591 M: 311
+Total CPU TIME: 59.147 milliseconds
+AVG time between deletion: 8.7912 microseconds
+
+N:446 M: 310
+Total CPU TIME: 33.765 milliseconds
+AVG time between deletion: 6.38004 microseconds
+
+N:91 M: 87
+Total CPU TIME: 6.657 milliseconds
+AVG time between deletion: 3.43297 microseconds
+
+N:266 M: 17
+Total CPU TIME: 14.09 milliseconds
+AVG time between deletion: 3.92519 microseconds
+
+N:86 M: 33
+Total CPU TIME: 3.254 milliseconds
+AVG time between deletion: 1.3686 microseconds
+
+N:212 M: 163
+Total CPU TIME: 10.539 milliseconds
+AVG time between deletion: 3.45094 microseconds
+
+N:777 M: 53
+Total CPU TIME: 112.009 milliseconds
+AVG time between deletion: 13.0794 microseconds
+
+N:52 M: 8
+Total CPU TIME: 3.138 milliseconds
+AVG time between deletion: 1.53654 microseconds
+
+N:380 M: 136
+Total CPU TIME: 31.935 milliseconds
+AVG time between deletion: 6.78342 microseconds
+
+N:946 M: 41
+Total CPU TIME: 140.513 milliseconds
+AVG time between deletion: 13.6543 microseconds
+
+N:111 M: 31
+Total CPU TIME: 3.646 milliseconds
+AVG time between deletion: 1.45405 microseconds
+
+N:320 M: 260
+Total CPU TIME: 23.948 milliseconds
+AVG time between deletion: 5.74188 microseconds
+
+N:313 M: 66
+Total CPU TIME: 17.826 milliseconds
+AVG time between deletion: 0.968051 microseconds
+
+N:78 M: 41
+Total CPU TIME: 4.841 milliseconds
+AVG time between deletion: 0.796154 microseconds
+
+N:324 M: 27
+Total CPU TIME: 22.406 milliseconds
+AVG time between deletion: 1.18889 microseconds
+
+N:402 M: 107
+Total CPU TIME: 31.05 milliseconds
+AVG time between deletion: 1.29353 microseconds
+
+N:998 M: 733
+Total CPU TIME: 166.904 milliseconds
+AVG time between deletion: 1.5996 microseconds
+
+N:778 M: 247
+Total CPU TIME: 104.585 milliseconds
+AVG time between deletion: 1.41915 microseconds
+

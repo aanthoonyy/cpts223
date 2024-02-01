@@ -1,0 +1,31 @@
+test,test,2
+pwd,"Print working directory",1
+ls,"List files and directories in current working directory",1
+cd,"Change current working directory",1
+mkdir,"Create a directory",1
+rmdir,"Delete a directory",1
+rm,"Delete a file",1
+cp,"Copy",1
+mv,"Move a file",1
+ssh,"A secure encrypted connection between two hosts over an insecure network",2
+scp,"copy file(s) between servers in a secure way",2
+man,"display the user manual of any command that we can run on the terminal",2
+g++,"a compiler in Linux which is used to compile C++ programs",2
+gcc,"a compiler system produced by the GNU Project supporting various programming languages",2
+make,"compiles different program pieces and builds a final executable",2
+ps,"a command line utility that is used to display or view information related to the processes running in a Linux system",2
+kill,"a built-in command which is used to terminate processes manually",2
+top,"a command shows a real-time view of running processes in Linux and displays kernel-managed tasks",2
+who,"used to get information about currently logged in user on to system",3
+chmod,"a command is used to change permissions for a file or directory on a Unix machine",3
+cat,"This command displays the contents of one or more files without having to open the file for editing",3
+alias,"a shortcut that references a command",3
+chown,"a command to change the owner of file system files, directories",3
+df,"a standard Unix command used to display the amount of available disk space for file systems on which the invoking user has appropriate read access",3
+grep,"a command used in searching and matching text files contained in the regular expressions",3
+echo,"a Unix/Linux command tool used for displaying lines of text or string which are passed as arguments on the command line",2
+find,"a command that allows users to search for files and take actions on them",4
+clear,"a command to clear the terminal screen in Linux",1
+diff,"a command-line utility that allows you to compare two files line by line",2
+env,"a command that allows you to display your current environment or run a specified command in a changed environment",4
+free,"a command provides information about the total amount of the physical and swap memory as well as the free and used memory",3

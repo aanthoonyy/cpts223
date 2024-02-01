@@ -1,0 +1,41 @@
+---------------------------------------------
+             Chaining Hash table
+---------------------------------------------
+Chaining Hashing insertion time: 0.62272 seconds.
+Chaining Hash search time: 0.003838 seconds.
+Chaining Hash failed search time: : 0.029201 seconds.
+Chaining Hash deletion time: 0.031848 seconds.
+Table Size: 999999 elements.
+Bucket Size: 1646237 buckets.
+Load factor: 0.607445.
+---------------------------------------------
+             Probing Hash table
+---------------------------------------------
+Linear Probing insertion time: 0.118179 seconds.
+Linear Probing search time: 1.9e-05 seconds.
+Linear Probing failed search time: : 0.005659 seconds.
+Linear Probing deletion time: 0.007285 seconds.
+Table Size: 999999 elements.
+Bucket Size: 1646237 buckets.
+Load factor: 0.607445.
+---------------------------------------------
+ Parallel Probing Hash table (Single Thread)
+---------------------------------------------
+Parallel Linear Probing insertion time: 0.135314 seconds.
+Parallel Linear Probing search time: 2e-05 seconds.
+Parallel Linear Probing failed search time: : 0.006914 seconds.
+Parallel Linear Probing deletion time: 0.007807 seconds.
+Table Size: 999999 elements.
+Bucket Size: 1779761 buckets.
+Load factor: 0.561873.
+---------------------------------------------
+    Parallel Probing Hash table (Multi Thread)
+---------------------------------------------
+Parallel Linear Probing insertion time: 0.121523 seconds.
+Parallel Linear Probing search time: 0.000243 seconds.
+Parallel Linear Probing failed search time: : 0.014792 seconds.
+Parallel Linear Probing deletion time: 0.016348 seconds.
+Table Size: 999999 elements.
+Bucket Size: 1779761 buckets.
+Load factor: 0.561873.
+3.
